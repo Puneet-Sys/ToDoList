@@ -59,7 +59,7 @@ Firstly, Install <a href="https://www.w3schools.com/nodejs/default.aspp" target=
 
 1. Open Terminal in IDE.
 2. Move to the directory in which app.js file is present.
-3. Run the command app.js in terminal.
+3. Run the command `node app.js` in terminal.
 4. Open LocalHost(127.0. 0.1) in browser.
 
 
